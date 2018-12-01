@@ -1,0 +1,8 @@
+Objetivo de la práctica
+Queremos realizar un programa en python con Spark que muestre cuál es el personaje más popular de los comic de Marvel, entendiendo popularidad como el personajes que coaparece más veces en los comic.
+Dataset utilizado
+Para ello nos disponemos de dos dataset, Marvel-names.txt y Marvel-graph.txt: Marvel-names.txt :
+- En dicho dataset encontramos un listado de nombre de héroes e id que corresponden con dichos héroes.
+Marvel-graph.txt:
+- En dónde el primer número es el identificador de un personaje/superhéroe, y a continuación
+todos los IDs de otros personajes con los que coaparece en la historia a la que hace referencia esa línea.
